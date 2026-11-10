@@ -1,19 +1,21 @@
 {
-  "version": "5.10.0",
-  "latest_version": "5.10.0",
-  "release_date": "2026-10-02",
+  "version": "6.0.0",
+  "latest_version": "6.0.0",
+  "release_date": "2026-11-10",
   "eula_version": "1.0",
   "current_eula_version": "1.0",
   "minimum_eula_version": "1.0",
-  "release_page_url": "https://github.com/Dannyyodog/audiobook-factory-releases/releases/tag/v5.10.0",
-  "release_notes_url": "https://github.com/Dannyyodog/audiobook-factory-releases/releases/tag/v5.10.0",
+  "release_page_url": "https://github.com/Dannyyodog/audiobook-factory-releases/releases/tag/v6.0.0",
+  "release_notes_url": "https://github.com/Dannyyodog/audiobook-factory-releases/releases/tag/v6.0.0",
   "downloads": {
-    "windows": "https://github.com/Dannyyodog/audiobook-factory-releases/releases/download/v5.10.0/AudiobookFactory_Setup_v5.10.0.exe",
-    "mac": "https://github.com/Dannyyodog/audiobook-factory-releases/releases/download/v5.10.0/AudiobookFactory_v5.10.0_mac.dmg",
-    "mac_arm64": "https://github.com/Dannyyodog/audiobook-factory-releases/releases/download/v5.10.0/AudiobookFactory_v5.10.0_mac_arm64.dmg"
+    "windows": "https://github.com/Dannyyodog/audiobook-factory-releases/releases/download/v6.0.0/AudiobookFactory_Setup_v6.0.0.exe",
+    "mac": "https://github.com/Dannyyodog/audiobook-factory-releases/releases/download/v6.0.0/AudiobookFactory_v6.0.0_mac.dmg",
+    "mac_arm64": "https://github.com/Dannyyodog/audiobook-factory-releases/releases/download/v6.0.0/AudiobookFactory_v6.0.0_mac_arm64.dmg"
   },
-  "download_url": "https://github.com/Dannyyodog/audiobook-factory-releases/releases/download/v5.10.0/AudiobookFactory_Setup_v5.10.0.exe",
+  "download_url": "https://github.com/Dannyyodog/audiobook-factory-releases/releases/download/v6.0.0/AudiobookFactory_Setup_v6.0.0.exe",
   "release_notes": "See release page for full notes.",
   "release_notes_short": "See release page for full notes.",
-  "revoked_keys_url": "https://raw.githubusercontent.com/Dannyyodog/audiobook-factory-releases/main/revoked_keys.json"
+  "revoked_keys_url": "https://raw.githubusercontent.com/Dannyyodog/audiobook-factory-releases/main/revoked_keys.json",
+  "sha256": {"windows": "db77b9157c5789b98c467d172285db01918919e396b39a06ac8000186a5f93c7", "mac": "f1acc2adb6c6b9b5843f778d293bbc0429cad67c577651885e11108c3df3e799", "mac_arm64": "e5ad291f16cf3f412c4240948bf4ff54322a19257eddd6bc175715a6d7a66739"},
+  "size": {"windows": 55453833, "mac": 75194825, "mac_arm64": 68474292}
 }
