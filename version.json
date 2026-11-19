@@ -1,29 +1,29 @@
 {
-  "version": "6.0.1",
-  "latest_version": "6.0.1",
-  "release_date": "2026-11-15",
+  "version": "6.0.2",
+  "latest_version": "6.0.2",
+  "release_date": "2026-11-19",
   "eula_version": "1.0",
   "current_eula_version": "1.0",
   "minimum_eula_version": "1.0",
-  "release_page_url": "https://github.com/Dannyyodog/audiobook-factory-releases/releases/tag/v6.0.1",
-  "release_notes_url": "https://github.com/Dannyyodog/audiobook-factory-releases/releases/tag/v6.0.1",
+  "release_page_url": "https://github.com/Dannyyodog/audiobook-factory-releases/releases/tag/v6.0.2",
+  "release_notes_url": "https://github.com/Dannyyodog/audiobook-factory-releases/releases/tag/v6.0.2",
   "downloads": {
-    "windows": "https://github.com/Dannyyodog/audiobook-factory-releases/releases/download/v6.0.1/AudiobookFactory_Setup_v6.0.1.exe",
-    "mac": "https://github.com/Dannyyodog/audiobook-factory-releases/releases/download/v6.0.1/AudiobookFactory_v6.0.1_mac.dmg",
-    "mac_arm64": "https://github.com/Dannyyodog/audiobook-factory-releases/releases/download/v6.0.1/AudiobookFactory_v6.0.1_mac_arm64.dmg"
+    "windows": "https://github.com/Dannyyodog/audiobook-factory-releases/releases/download/v6.0.2/AudiobookFactory_Setup_v6.0.2.exe",
+    "mac": "https://github.com/Dannyyodog/audiobook-factory-releases/releases/download/v6.0.2/AudiobookFactory_v6.0.2_mac.dmg",
+    "mac_arm64": "https://github.com/Dannyyodog/audiobook-factory-releases/releases/download/v6.0.2/AudiobookFactory_v6.0.2_mac_arm64.dmg"
   },
-  "download_url": "https://github.com/Dannyyodog/audiobook-factory-releases/releases/download/v6.0.1/AudiobookFactory_Setup_v6.0.1.exe",
-  "release_notes": "Fixed in 6.0.1: the update from version 5 keeps your settings even if you click Yes when the old uninstaller asks; the update window shows what changed; a scanned book with no chapter list is split at its \"Chapter\" lines; a chapter opened and left alone is no longer saved as changed.\nNew in Audiobook Factory 6:\n- One window with a sidebar; every tab of version 5 is here, in one place.\n- A book walks through its stages: Manuscript, Record, Chapters, Studio, Finish.\n- Bring in a corrected version of your book: every change shown first, the same paragraphs keep their audio.\n- The narration counts the exact cost before anything is made, and never charges twice.\n- Updates install themselves; transcription downloads when first needed, over twice as fast.\n- Light and dark themes, a spellchecker, Keep silent in the narration, dramatic adaptation (beta).\nUpdating from version 5 on Windows: click No when the old uninstaller asks about removing settings.\nFull notes: https://github.com/Dannyyodog/audiobook-factory-releases/releases/tag/v6.0.1",
-  "release_notes_short": "Fixed in 6.0.1: the update from version 5 keeps your settings even if you click Yes when the old uninstaller asks; the update window shows what changed; a scanned book with no chapter list is split at its \"Chapter\" lines; a chapter opened and left alone is no longer saved as changed.\nNew in Audiobook Factory 6:\n- One window with a sidebar; every tab of version 5 is here, in one place.\n- A book walks through its stages: Manuscript, Record, Chapters, Studio, Finish.\n- Bring in a corrected version of your book: every change shown first, the same paragraphs keep their audio.\n- The narration counts the exact cost before anything is made, and never charges twice.\n- Updates install themselves; transcription downloads when first needed, over twice as fast.\n- Light and dark themes, a spellchecker, Keep silent in the narration, dramatic adaptation (beta).\nUpdating from version 5 on Windows: click No when the old uninstaller asks about removing settings.\nFull notes: https://github.com/Dannyyodog/audiobook-factory-releases/releases/tag/v6.0.1",
+  "download_url": "https://github.com/Dannyyodog/audiobook-factory-releases/releases/download/v6.0.2/AudiobookFactory_Setup_v6.0.2.exe",
+  "release_notes": "Fixed in 6.0.2: the app no longer locks you out when it can't check your beta key (security software, a VPN, a network filter, a long time unopened); it closes only if your key was withdrawn.\nFixed in 6.0.1: the update from version 5 keeps your settings even if you click Yes when the old uninstaller asks; the update window shows what changed; scanned books are split at their \"Chapter\" lines; opening a chapter is not a change.\nNew in Audiobook Factory 6:\n- One window with a sidebar; every tab of version 5 is here, in one place.\n- A book walks through its stages: Manuscript, Record, Chapters, Studio, Finish.\n- Bring in a corrected version of your book: every change shown first, the same paragraphs keep their audio.\n- The narration counts the exact cost before anything is made, and never charges twice.\n- Updates install themselves; transcription downloads when first needed, over twice as fast.\n- Light and dark themes, a spellchecker, Keep silent in the narration, dramatic adaptation (beta).\nUpdating from version 5 on Windows: click No when the old uninstaller asks about removing settings.\nFull notes: https://github.com/Dannyyodog/audiobook-factory-releases/releases/tag/v6.0.2",
+  "release_notes_short": "Fixed in 6.0.2: the app no longer locks you out when it can't check your beta key (security software, a VPN, a network filter, a long time unopened); it closes only if your key was withdrawn.\nFixed in 6.0.1: the update from version 5 keeps your settings even if you click Yes when the old uninstaller asks; the update window shows what changed; scanned books are split at their \"Chapter\" lines; opening a chapter is not a change.\nNew in Audiobook Factory 6:\n- One window with a sidebar; every tab of version 5 is here, in one place.\n- A book walks through its stages: Manuscript, Record, Chapters, Studio, Finish.\n- Bring in a corrected version of your book: every change shown first, the same paragraphs keep their audio.\n- The narration counts the exact cost before anything is made, and never charges twice.\n- Updates install themselves; transcription downloads when first needed, over twice as fast.\n- Light and dark themes, a spellchecker, Keep silent in the narration, dramatic adaptation (beta).\nUpdating from version 5 on Windows: click No when the old uninstaller asks about removing settings.\nFull notes: https://github.com/Dannyyodog/audiobook-factory-releases/releases/tag/v6.0.2",
   "revoked_keys_url": "https://raw.githubusercontent.com/Dannyyodog/audiobook-factory-releases/main/revoked_keys.json",
   "sha256": {
-    "windows": "e91e0ec6ec60d709004b44c53e33fe67131401af28994b58e9ce2f0096ae9aba",
-    "mac": "ae4379949e546b6adcdb21df0540fe39adcabed01967dfec2a474a8853ecc222",
-    "mac_arm64": "e0f28cf77d17fbcbf89ed3df6034e93b59a60a7d8dd9c9a03c4de3ff0913def2"
+    "windows": "e3a95b4224fce6b1b69c01df9fbeaa5d963c74a9c0e65c6800162bca6d871365",
+    "mac": "98b1c8dd4fd96c87e3b662b477f48d22135943aa4cc8120cbab6d8d2a75f4609",
+    "mac_arm64": "009647ef19453b79c8b69e6cc0bcb555e349bf097337348fb86f6fd3d1d7c800"
   },
   "size": {
-    "windows": 55468041,
-    "mac": 75203649,
-    "mac_arm64": 68479432
+    "windows": 55491528,
+    "mac": 75222353,
+    "mac_arm64": 68520957
   }
 }
